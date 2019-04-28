@@ -9,4 +9,8 @@ public class demo01 {
 
 		System.out.println("Hello Git02");
 	}
+	
+	public void git() {
+		System.out.println("git 方法创建!");
+	}
 }
