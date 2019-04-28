@@ -13,4 +13,11 @@ public class demo01 {
 	public void git() {
 		System.out.println("git 方法创建!");
 	}
+	
+	public void dev1() {
+		System.out.println("hello dev1");
+		System.out.println("hello dev1");
+		System.out.println("hello dev1");
+	}
+	
 }
