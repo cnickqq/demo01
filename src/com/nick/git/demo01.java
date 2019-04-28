@@ -2,6 +2,12 @@ package com.nick.git;
 
 public class demo01 {
 	public static void main(String[] args) {
+		System.out.println("demo01");
+		System.out.println("demo01");
+		System.out.println("demo01");
+		System.out.println("demo01");
+		System.out.println("demo01");
+		System.out.println("demo01");
 		System.out.println("demo02");
 		System.out.println("demo02");
 		System.out.println("demo02");
