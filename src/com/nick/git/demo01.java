@@ -20,4 +20,9 @@ public class demo01 {
 		System.out.println("hello dev1");
 	}
 	
+	public void say() {
+		System.out.println("我切换到了dev1分支!");
+		
+	}
+	
 }
