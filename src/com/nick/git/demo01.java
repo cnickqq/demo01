@@ -37,4 +37,10 @@ public class demo01 {
 		
 	}
 	
+	public void demo02sayHaHa() {
+		System.out.println("demo02 say haha!");
+		System.out.println("demo02 say haha!");
+		System.out.println("demo02 say haha!");
+	}
+	
 }
